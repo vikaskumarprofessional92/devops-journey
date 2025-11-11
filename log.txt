@@ -6,4 +6,4 @@ feature 1
 feature 2
 feature 3
 BootCamp Day 1 - Going to start strong
-Foundation Week 1 – Day X
+Foundation Week 1 – Day 4
