@@ -1,2 +1,3 @@
 feature 1
-fetaure 2
+feature 2
+Feature 3
